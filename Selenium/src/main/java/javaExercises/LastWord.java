@@ -1,6 +1,4 @@
-package weeklyTest.JuneExercise;
-
-import java.sql.Array;
+package javaExercises;
 
 public class LastWord
 {

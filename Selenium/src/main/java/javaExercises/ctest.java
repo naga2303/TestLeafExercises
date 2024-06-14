@@ -1,4 +1,4 @@
-package weeklyTest.JuneExercise;
+package javaExercises;
 
 public class ctest {
         public static void main(String args[]){
