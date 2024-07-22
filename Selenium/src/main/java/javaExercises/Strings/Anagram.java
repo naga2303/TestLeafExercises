@@ -1,4 +1,4 @@
-package javaExercises;
+package javaExercises.Strings;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package javaExercises;
+package javaExercises.Strings;
 
 public class AmstrongNum
 {

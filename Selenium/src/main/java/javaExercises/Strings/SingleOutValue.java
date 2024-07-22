@@ -1,6 +1,4 @@
-package javaExercises;
-
-import io.cucumber.java.ro.Si;
+package javaExercises.Strings;
 
 import java.util.HashMap;
 import java.util.Map;
